@@ -1,10 +1,10 @@
 ### AimBotz Training v1.0
 
-Trainig Map from cs:go to 1.6
+**Trainig Map from cs:go to 1.6**
 
-Important : That plugin work on every map!!!
+**Important : *That plugin work on every map!!!***
 
-![](https://i.imgur.com/NO9tiVl.png)
+Video Preview : https://youtu.be/vj8PLA7FNiw
 
 #### Requirement:
 - AMX MOD X 1.8.2
@@ -14,3 +14,10 @@ Important : That plugin work on every map!!!
 2. Open zip
 3. Drop cstrike folder from zip to you cstrike folder
 4. Enjoy!
+
+#### Credits:
+- Blizzard : Frags Counter
+- Alka : StopWatch
+-	ConnorMcLeod : Unlimited Ammo
+- uLLeticaL and Cha : AimBotz Map 
+![](https://i.imgur.com/NO9tiVl.png)
