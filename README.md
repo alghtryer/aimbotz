@@ -1,5 +1,7 @@
 ### AimBotz Training v1.0
 
+[DOWNLOAD ZIP](https://github.com/alghtryer/aimbotz/archive/master.zip)
+
 **Trainig Map from cs:go to 1.6**
 
 **Important : *That plugin work on every map!!!***
