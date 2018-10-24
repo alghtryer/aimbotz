@@ -21,6 +21,7 @@ Video Preview : https://youtu.be/vj8PLA7FNiw
 - Blizzard : Frags Counter
 - Alka : StopWatch
 -	ConnorMcLeod : Unlimited Ammo
-- uLLeticaL and Cha : AimBotz Map 
+- uLLeticaL and Cha : AimBotz Map
+- Arkashine : Bots - https://github.com/Arkshine/CSBotEnabler
 
 ![](https://i.imgur.com/NO9tiVl.png)
