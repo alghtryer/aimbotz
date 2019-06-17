@@ -3,7 +3,7 @@
 ```
 Last update : 17. Jul 2019.
 - Now plugin only work on aimbotz map.
-- Added cvar for bot armor, bot_armor( after this type sv_restart 1)
+- Added cvar for bot armor, bot_armor 1 ( after this type sv_restart 1)
 ``` 
 **Trainig Map from cs:go to 1.6**
 
