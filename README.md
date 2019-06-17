@@ -1,10 +1,11 @@
 ### AimBotz Training v1.0 [![](https://img.shields.io/badge/download-zip-blue.svg)](https://github.com/alghtryer/aimbotz/archive/master.zip)
 
-
-
+```
+Last update : 17. Jul 2019.
+- Now plugin only work on aimbotz map.
+- Added cvar for bot armor, bot_armor( after this type sv_restart 1)
+``` 
 **Trainig Map from cs:go to 1.6**
-
-**Important : *That plugin work on every map!!!***
 
 Video Preview : https://youtu.be/vj8PLA7FNiw
 
@@ -16,6 +17,7 @@ Video Preview : https://youtu.be/vj8PLA7FNiw
 2. Open zip
 3. Drop cstrike folder from zip to you cstrike folder
 4. Enjoy!
+
 
 #### Credits:
 - Blizzard : Frags Counter
