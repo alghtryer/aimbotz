@@ -13,11 +13,10 @@ Video Preview : https://youtu.be/vj8PLA7FNiw
 - AMX MOD X 1.8.2
 
 #### Installation:
-1. Download zip
-2. Open zip
-3. Drop cstrike folder from zip to you cstrike folder
-4. Enjoy!
+https://youtu.be/GIn2F70fKIU
 
+#### Command:
+bot_armor 1 ( Bot have armor ) After this type and sv_restart 1
 
 #### Credits:
 - Blizzard : Frags Counter
