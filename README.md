@@ -1,7 +1,7 @@
 ### AimBotz Training v1.0 [![](https://img.shields.io/badge/download-zip-blue.svg)](https://github.com/alghtryer/aimbotz/archive/master.zip)
 
 ```
-Last update : 17. Jul 2019.
+Last update : 17. Jun 2019.
 - Now plugin only work on aimbotz map.
 - Added cvar for bot armor, bot_armor 1 ( after this type sv_restart 1)
 ``` 
