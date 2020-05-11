@@ -10,7 +10,7 @@ Last update : 17. Jun 2019.
 Video Preview : https://youtu.be/vj8PLA7FNiw
 
 #### Requirement:
-- AMX MOD X 1.8.2
+- AMX MOD X 1.8.2 How install ? View tutorial: https://youtu.be/r5uo7z0y6Jg 
 
 #### Installation:
 https://youtu.be/GIn2F70fKIU
